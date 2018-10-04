@@ -1,6 +1,8 @@
 # Over'all Grid
 Voor de opdracht van deze week ga je het toegevoegde plaatje (overAll.png) zo exact mogelijk proberen na te maken doormiddel van HTML en CSS. Omdat je het ontwerp zo exact mogelijk probeert na te maken zijn er heel concrete technische eisen, lees deze zorgvuldig door. De gebruikte plaatjes zijn bijgevoegd.
 
+![Ontwerp](img/ontwerp.png)
+
 Tevens ga je na het uitwerken van het ontwerp twee nieuwe pagina's maken. Eén pagina met uitleg over de auto's die je bij dit bedrijf kunt bestellen en één pagina met de kleding die ze erbij verkopen.
 
 Het resultaat van je opdracht plaats je uiteraard op GitHub, de link naar de GitHub repository lever je in.
